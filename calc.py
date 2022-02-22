@@ -1,3 +1,5 @@
+#https://replit.com/@VadimTimoshienk/calc3000
+
 from logging import root
 from tkinter import *
 root=Tk()
